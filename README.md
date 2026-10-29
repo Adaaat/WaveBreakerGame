@@ -37,7 +37,7 @@ A Flutter game
 
 ### Graphics & Sprites
 - **Pixel Adventure:** Original sprite packs by [Pixel Frog](https://pixelfrog-assets.itch.io/pixel-adventure-1).
-- **SunnySide World:** Base environment and asset pack by [Daniel Danielsson](https://daniel-danielsson.itch.io/sunnyside-world).
+- **SunnySide World:** Base environment and asset pack by [DanielDiggle](https://danieldiggle.itch.io/sunnyside).
 - **Custom Edits:** Main character sprites and select environment assets were edited and recolored for this project.
 
 ### AI Content & Tooling
