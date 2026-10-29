@@ -1,0 +1,10 @@
+^C:\USERS\ADNAN\DESKTOP\WAVEBREAKERGAME\BUILD\WINDOWS\X64\CMAKEFILES\D3DC15845F61D3F3BACA0F1FE37EBEF8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/adnan/Desktop/WaveBreakerGame/windows -BC:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/fluttergame.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

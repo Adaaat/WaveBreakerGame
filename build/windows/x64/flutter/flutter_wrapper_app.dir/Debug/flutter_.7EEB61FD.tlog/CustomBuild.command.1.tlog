@@ -1,0 +1,10 @@
+^C:\USERS\ADNAN\DESKTOP\WAVEBREAKERGAME\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/adnan/Desktop/WaveBreakerGame/windows -BC:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64 --check-stamp-file C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\adnan\Desktop\WaveBreakerGame\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\56185ab18f69edd3dbd77b9b7349996b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E8DC1531-9FA5-38C0-BA13-6EFC6C1414F3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

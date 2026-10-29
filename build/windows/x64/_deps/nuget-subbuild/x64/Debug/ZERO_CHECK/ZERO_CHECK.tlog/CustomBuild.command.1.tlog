@@ -1,0 +1,10 @@
+^C:\USERS\ADNAN\DESKTOP\WAVEBREAKERGAME\BUILD\WINDOWS\X64\_DEPS\NUGET-SUBBUILD\CMAKEFILES\56185AB18F69EDD3DBD77B9B7349996B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild -BC:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/nuget-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

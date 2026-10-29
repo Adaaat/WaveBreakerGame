@@ -1,0 +1,1 @@
+ C:\\Users\\adnan\\Desktop\\WaveBreakerGame\\.dart_tool\\flutter_build\\1af949ca6fef9cb3674eb2cc6d222bbf\\native_assets.yaml: 

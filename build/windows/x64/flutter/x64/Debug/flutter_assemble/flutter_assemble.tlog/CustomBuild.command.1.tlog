@@ -1,0 +1,28 @@
+^C:\USERS\ADNAN\DESKTOP\WAVEBREAKERGAME\BUILD\WINDOWS\X64\CMAKEFILES\4E18B8291FF140CC1A864C8F5E0DB636\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutterSRC\flutter PROJECT_DIR=C:\Users\adnan\Desktop\WaveBreakerGame FLUTTER_ROOT=C:\flutterSRC\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\adnan\Desktop\WaveBreakerGame\windows\flutter\ephemeral PROJECT_DIR=C:\Users\adnan\Desktop\WaveBreakerGame FLUTTER_TARGET=C:\Users\adnan\Desktop\WaveBreakerGame\lib\main.dart DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\adnan\Desktop\WaveBreakerGame\.dart_tool\package_config.json C:/flutterSRC/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ADNAN\DESKTOP\WAVEBREAKERGAME\BUILD\WINDOWS\X64\CMAKEFILES\E79A22AAE8499FC03B5C988D0DD1472C\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ADNAN\DESKTOP\WAVEBREAKERGAME\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/adnan/Desktop/WaveBreakerGame/windows -BC:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64 --check-stamp-file C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

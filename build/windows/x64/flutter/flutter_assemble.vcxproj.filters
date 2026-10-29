@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\adnan\Desktop\WaveBreakerGame\build\windows\x64\CMakeFiles\4e18b8291ff140cc1a864c8f5e0db636\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\adnan\Desktop\WaveBreakerGame\build\windows\x64\CMakeFiles\e79a22aae8499fc03b5c988d0dd1472c\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\adnan\Desktop\WaveBreakerGame\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\adnan\Desktop\WaveBreakerGame\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2F68C162-B430-314F-9F5C-0ADE148A69B6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

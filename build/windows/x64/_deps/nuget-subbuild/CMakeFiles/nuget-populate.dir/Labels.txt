@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/56185ab18f69edd3dbd77b9b7349996b/nuget-populate.rule
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/aadf5c913bd8689157a3f5ec104dacf9/nuget-populate-complete.rule
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b95fb49d6cc346dc56ad8615b27d40c7/nuget-populate-build.rule
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b95fb49d6cc346dc56ad8615b27d40c7/nuget-populate-configure.rule
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b95fb49d6cc346dc56ad8615b27d40c7/nuget-populate-copyfile.rule
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b95fb49d6cc346dc56ad8615b27d40c7/nuget-populate-download.rule
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b95fb49d6cc346dc56ad8615b27d40c7/nuget-populate-install.rule
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b95fb49d6cc346dc56ad8615b27d40c7/nuget-populate-mkdir.rule
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b95fb49d6cc346dc56ad8615b27d40c7/nuget-populate-patch.rule
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b95fb49d6cc346dc56ad8615b27d40c7/nuget-populate-test.rule
+C:/Users/adnan/Desktop/WaveBreakerGame/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b95fb49d6cc346dc56ad8615b27d40c7/nuget-populate-update.rule
